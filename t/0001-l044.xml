@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<language>
+    <page id="20811" voice="no">
+        <t id="100">Sektör Listesi</t>
+        <t id="101">Sıralama ayarları</t>
+        <t id="102">Sektör listesi</t>
+
+        <t id="111">ait mülkiyet</t>
+        <t id="112">ait kaynak</t>
+        <t id="113">ait alım teklifleri</t>
+        <t id="114">ait satış teklifleri</t>
+
+        <t id="120">Ansiklopedi kaydı</t>
+
+        <t id="130">Mülkler</t>
+        <t id="131">Doğal kaynaklar</t>
+        <t id="132">En iyi %s alım ticari teklifleri</t>
+        <t id="133">En iyi %s satış ticari teklifleri</t>
+
+        <t id="140">Veri bulunmamaktadır</t>
+        <t id="141">Güncel veri</t>
+        <t id="142">Haritayı %s sektörü üzerinde ortala</t>
+
+        <t id="150">Son güncelleme</t>
+        <t id="151">önce</t>
+        <t id="152">sn</t>
+        <t id="153">dk</t>
+
+        <t id="200">sektör adı</t>
+        <t id="201">sahip fraksiyon</t>
+        <t id="202">güneş ışığı</t>
+        <t id="203">bilinen istasyonlar</t>
+        <t id="204">nüfus</t>
+        <t id="205">istasyon işgücü</t>
+
+        <t id="250">helium</t>
+        <t id="251">hydrogen</t>
+        <t id="252">ice</t>
+        <t id="253">methane</t>
+        <t id="254">nividium</t>
+        <t id="255">ore</t>
+        <t id="256">silicon</t>
+        <t id="257">raw scrap</t>
+
+    </page>
+</language>
