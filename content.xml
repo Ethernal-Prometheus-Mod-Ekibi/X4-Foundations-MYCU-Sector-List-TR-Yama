@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <content id="SectorList_TR"
 name="Mycu: Sector list - TR Patch"
-author="HeX"
+author="EPME - Eternal Prometheus Mod Ekibi"
 version="120"
 date="2023-08-13"
 save="false"
 enabled="1">
 <text language=""
 description="
-HeX tarafından Türkçeleştirilmiştir.&#13;&#10;
+EPME - Eternal Prometheus Mod Ekibi tarafından Türkçeleştirilmiştir.&#13;&#10;
 Mevcut kaynaklar ve alım/satım teklifleri listesiyle birlikte bilinen sektörlerin listesini haritaya ekler.
 "/>
 <dependency id="SectorList" optional="false" name="Mycu: Sector list"/>
